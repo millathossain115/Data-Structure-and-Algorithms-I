@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Data Structure and Algorithms I</h1>
 
-![AI Assignment logo](https://github.com/millathossain115/AI-Assignment-UIU/assets/49544603/c11168b4-aed9-41d7-a2ba-7a654141596f)
+![DAS-I LOGO](https://github.com/millathossain115/Data-Structure-and-Algorithms-I/assets/49544603/fbcc0f26-9c54-4ab6-bbd1-7d930c0af673)
 
 <h2>Overview</h2>
 
